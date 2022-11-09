@@ -19,8 +19,12 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
+    "body-parser": "^1.20.1",
     "dotenv": "^16.0.3",
     "ethereumjs-stub-rpc-server": "^2.2.0",
-    "express": "^4.17.1"
+    "ethers": "^5.7.2",
+    "express": "^4.17.1",
+    "json-rpc-engine": "^6.1.0",
+    "zksync-web3": "^0.11.1"
   }
 }
